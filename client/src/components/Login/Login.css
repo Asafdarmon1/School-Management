@@ -1,0 +1,36 @@
+body{
+    background-image: url('../../images/pexels-johannes-plenio-1103970.jpg');
+}
+
+
+.Login-Form {
+    text-align: center;
+    box-shadow: 0px 1px 5px;
+    width: 310px;
+    margin: auto;
+    padding: 21px;
+    border-radius: 13px;
+    margin-top: 134px;
+    padding: 28px;
+    background-color: #fff;
+}
+
+.container-register {
+    text-align: center;
+    margin-right: 148px;
+    font-size: 14px;
+}
+
+.container-register a{
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+.container-forgot-password{
+    margin-left: 184px;
+    margin-top: 10px;
+}
+
+.login-button {
+    margin-left: 184px;
+}
